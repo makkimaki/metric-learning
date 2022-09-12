@@ -61,7 +61,8 @@ class ImageRetrieval(object):
     def train_knn():
 
     def _init_dataset():
-
+        
+    @staticmethod
     def preprocess_image():
 
 
